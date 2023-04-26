@@ -1,0 +1,5 @@
+setup.py
+pckGobea.egg-info/PKG-INFO
+pckGobea.egg-info/SOURCES.txt
+pckGobea.egg-info/dependency_links.txt
+pckGobea.egg-info/top_level.txt
